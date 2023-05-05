@@ -5,7 +5,7 @@ paper. If you are to use the dataset, please cite [2].
 
 <a id="1">[1]</a>
 B. A. Semcheddine and A. Daamouche, "Adaptive Matched Filters for VHR Image Classification," 2022 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS), 
-Istanbul, Turkey, 2022, pp. 50-53, doi: 10.1109/M2GARSS52314.2022.9839931.
+Istanbul, Turkey, 2022, pp. 50-53, doi: 10.1109/M2GARSS52314.2022.9839931.\
 <a id="1">[2]</a>
 R. C. Daudt, B. Le Saux, A. Boulch, and Y. Gousseau, “Multitask learning for large-scale semantic change detection,” Computer Vision and Image Understanding, 
 vol. 187, p. 102783, 2019. doi: 10.1016/j.cviu.2019.07.003.
